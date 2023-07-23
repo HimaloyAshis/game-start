@@ -1,9 +1,13 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
-        <div className='bg-'>
-            <h1>ok</h1>
+        <div className='bg-[#EEE2DE] flex gap-4 justify-center font-bold pt-4 pb-4 items-center'>
+            <Link>Home</Link>
+            <Link>Admission</Link>
+            <Link>Colleges</Link>
+            <Link>My College</Link>
             
         </div>
     );
