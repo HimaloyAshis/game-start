@@ -1,0 +1,152 @@
+[
+    {
+        "college_image": "https://example.com/college1.jpg",
+        "college_name": "ABC University",
+        "rating": 4.5,
+        "admission_date": "2023-09-01",
+        "number_of_research": 120,
+        "event": "Orientation Day",
+        "research_history": [
+            {
+                "year": 2021,
+                "topic": "Advancements in Artificial Intelligence",
+                "faculty": "Dr. Smith"
+            },
+            {
+                "year": 2022,
+                "topic": "Sustainable Energy Solutions",
+                "faculty": "Prof. Johnson"
+            }
+        ],
+        "sports": [
+            "Football",
+            "Basketball",
+            "Swimming"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college2.jpg",
+        "college_name": "XYZ College",
+        "rating": 4.2,
+        "admission_date": "2023-08-15",
+        "number_of_research": 90,
+        "event": "Open House",
+        "research_history": [
+            {
+                "year": 2020,
+                "topic": "Climate Change and its Impacts",
+                "faculty": "Dr. Brown"
+            },
+            {
+                "year": 2021,
+                "topic": "Advancements in Biotechnology",
+                "faculty": "Prof. Williams"
+            }
+        ],
+        "sports": [
+            "Tennis",
+            "Volleyball",
+            "Track and Field"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college3.jpg",
+        "college_name": "EFG Institute",
+        "rating": 4.7,
+        "admission_date": "2023-09-20",
+        "number_of_research": 150,
+        "event": "Prospective Student Day",
+        "research_history": [
+            {
+                "year": 2019,
+                "topic": "Global Economic Trends",
+                "faculty": "Dr. Davis"
+            },
+            {
+                "year": 2020,
+                "topic": "Innovations in Robotics",
+                "faculty": "Prof. Lee"
+            }
+        ],
+        "sports": [
+            "Soccer",
+            "Badminton",
+            "Gymnastics"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college4.jpg",
+        "college_name": "PQR University",
+        "rating": 4.3,
+        "admission_date": "2023-09-10",
+        "number_of_research": 80,
+        "event": "Discover Campus Day",
+        "research_history": [
+            {
+                "year": 2021,
+                "topic": "Medicine and Public Health",
+                "faculty": "Dr. Adams"
+            },
+            {
+                "year": 2022,
+                "topic": "Environmental Conservation",
+                "faculty": "Prof. Clark"
+            }
+        ],
+        "sports": [
+            "Cricket",
+            "Rugby",
+            "Table Tennis"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college5.jpg",
+        "college_name": "LMN College of Arts",
+        "rating": 4.8,
+        "admission_date": "2023-08-20",
+        "number_of_research": 200,
+        "event": "Art Exhibition",
+        "research_history": [
+            {
+                "year": 2020,
+                "topic": "Modern Art and Its Impact",
+                "faculty": "Prof. Roberts"
+            },
+            {
+                "year": 2021,
+                "topic": "Cultural Diversity in Literature",
+                "faculty": "Dr. Martin"
+            }
+        ],
+        "sports": [
+            "Basketball",
+            "Chess",
+            "Dance"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college6.jpg",
+        "college_name": "UVW Engineering Institute",
+        "rating": 4.6,
+        "admission_date": "2023-09-05",
+        "number_of_research": 110,
+        "event": "Engineering Expo",
+        "research_history": [
+            {
+                "year": 2019,
+                "topic": "Renewable Energy Technologies",
+                "faculty": "Dr. Wilson"
+            },
+            {
+                "year": 2020,
+                "topic": "Innovations in Civil Engineering",
+                "faculty": "Prof. Anderson"
+            }
+        ],
+        "sports": [
+            "Volleyball",
+            "Swimming",
+            "Cricket"
+        ]
+    }
+]
