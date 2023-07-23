@@ -1,8 +1,9 @@
 import React from 'react';
+import './Login.css'
 
 const Login = () => {
     return (
-        <div>
+        <div className='anima'>
             <h1>Login</h1>
         </div>
     );
