@@ -2,9 +2,10 @@ import React from 'react';
 import { createBrowserRouter } from 'react-router-dom';
 import Home from '../pages/Home';
 import Main from '../layout/Main';
-import ErrorElement from '../pages/ErrorElement';
+
 import SignUp from '../pages/signup/SignUp';
 import Login from '../pages/login/Login';
+import ErrorElement from '../pages/errorElement/ErrorElement';
 const router = createBrowserRouter([
     {
         path:'/',
