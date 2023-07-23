@@ -1,9 +1,10 @@
 import React from 'react';
+import './ErrorElement.css'
 
 const ErrorElement = () => {
     return (
-        <div>
-            <h1>Opps</h1>
+        <div className='Error'>
+            
         </div>
     );
 };
