@@ -32,7 +32,7 @@ const Home = () => {
             {/* 3 card */}
 
             <section className='mt-10'>
-                <div className='grid grid-cols-1 lg:grid-cols-3 gap-2'>
+                <div className='grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-2'>
                     {collegeCard.map(card => <ThreeCard key={card._id} card={card}></ThreeCard>)}
                 </div>
             </section>
