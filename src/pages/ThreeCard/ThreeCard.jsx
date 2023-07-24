@@ -10,7 +10,8 @@ const ThreeCard = ({ card }) => {
         <div>
             <div className="card w-96 bg-base-100 shadow-xl">
                 <figure><img src={college_image} alt="colleges" /></figure>
-                <div className="card-body">
+                <div className="card-body" data-aos="fade-up" data-aos-easing="linear"
+                        data-aos-duration="2000">
                     <h2 className="card-title font-bold">College:{college_name}</h2>
                     <p className='font-semibold'>admission_date: {admission_date}</p>
                     <p className='font-semibold'>Event: {event}</p>

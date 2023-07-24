@@ -4,7 +4,7 @@ import { useLoaderData } from 'react-router-dom';
 const SingleCard = () => {
 
     const data = useLoaderData()
-    const { _id, admission_date, college_image, college_name, event, admission_process, rating, research_history, sports, events_details, research_works, sports_categories } = data
+    const {  college_image, college_name,  admission_process,  events_details, research_works, sports_categories } = data
     console.log(data)
 
     return (
@@ -62,8 +62,7 @@ const SingleCard = () => {
 
                                     <div>
                                         <p key={index} className='font-semibold'><span className='font-bold'>Category</span> {index + 1}. {sport.category} </p>
-                                        {/* <p key={index} className='font-semibold'><span className='font-bold'>Faculty</span>: {works.faculty} </p>
-                                        <p key={index} className='font-semibold'><span className='font-bold'>Description</span>: {works.description} </p> */}
+                                        
                                         {
                                             sport.sports.map(sp=> 
                                                 <div>
