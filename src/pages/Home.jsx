@@ -2,6 +2,8 @@ import axios from 'axios';
 import React from 'react';
 import { useQuery } from 'react-query';
 import ThreeCard from './ThreeCard/ThreeCard';
+import reviews from '../api/reviews';
+import Review from './review/Review';
 
 const Home = () => {
 
@@ -13,7 +15,10 @@ const Home = () => {
         }
     })
 
-    console.log(collegeCard)
+    // console.log(collegeCard)
+
+    const [review] = reviews()
+    console.log(review)
 
     return (
         <div className='bg-[#6C3428] px-2'>
@@ -74,6 +79,14 @@ const Home = () => {
                     </div>
                 </div>
 
+            </section>
+
+            {/* reviews section */}
+
+            <section className=''>
+                {
+                    review.map((review, index)=><Review key={index} review={review} ></Review>)
+                }
             </section>
 
         </div>

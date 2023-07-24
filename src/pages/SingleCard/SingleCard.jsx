@@ -9,7 +9,7 @@ const SingleCard = () => {
 
     return (
         <div className='bg-[#0E2954] p-4'>
-            <div className="  bg-base-100 shadow-xl" >
+            <div className="  text-white shadow-xl" >
                 <figure><img className='w-full' src={college_image} alt="colleges" /></figure>
                 <div className="p">
                     <h2 className="card-title font-bold ml-10 mt-3 space-y-3">College: <span className='text-2xl'> {college_name}</span></h2>
