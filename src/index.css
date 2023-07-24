@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+
+.butn{
+    @apply bg-[#435B66] text-[#F7F1E5] hover:bg-[#A76F6F] px-2 py-1 rounded-md font-bold  
+}

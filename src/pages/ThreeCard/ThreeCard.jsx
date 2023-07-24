@@ -39,7 +39,7 @@ const ThreeCard = ({ card }) => {
                         </div>
                     </div>
                     <div className="card-actions justify-end">
-                        <button className="btn btn-primary ">Know more</button>
+                        <button className="butn btn-primary ">Know more</button>
                     </div>
                 </div>
             </div>
