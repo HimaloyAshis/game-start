@@ -1,7 +1,7 @@
 [
     {
-        "college_image": "https://example.com/college1.jpg",
-        "college_name": "ABC University",
+        "college_image": "https://img.freepik.com/free-photo/aerial-view-residence-bukovinian-dalmatian-metropolitans-chernivtsi-national-university-chernivtsi-touristic-destination-western-ukraine_231208-41.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais",
+        "college_name": "Kabi Nazrul Govt. College",
         "rating": 4.5,
         "admission_date": "2023-09-01",
         "number_of_research": 120,
@@ -22,11 +22,107 @@
             "Football",
             "Basketball",
             "Swimming"
-        ]
+        ],
+        "admission_process": [
+            {
+                "step": "Fill out the online application form",
+                "description": "Interested students need to fill out an online application form available on the university's website. The application form typically includes personal information, educational background, desired program of study, and any additional requirements like essays or letters of recommendation."
+            },
+            {
+                "step": "Application review by the admission committee",
+                "description": "Once the applications are submitted, the university's admission committee reviews them. They assess various factors such as academic performance, extracurricular activities, personal statements, and letters of recommendation."
+            },
+            {
+                "step": "Entrance exams (if applicable)",
+                "description": "Some programs at ABC University may require applicants to take specific entrance exams, such as standardized tests or subject-specific exams."
+            },
+            {
+                "step": "Interviews (if applicable)",
+                "description": "Shortlisted candidates may be called for interviews, especially for competitive programs or scholarship opportunities."
+            },
+            {
+                "step": "Admission decision",
+                "description": "After the review process, the admission committee makes the final decision on each application. Students receive acceptance letters or rejection notifications through email or postal mail."
+            },
+            {
+                "step": "Acceptance and enrollment",
+                "description": "Accepted students need to confirm their enrollment by paying a deposit or fee within a specified timeframe. This secures their spot at the university."
+            }
+        ],
+        "events_details": [
+            {
+              "event": "Orientation Day",
+              "description": "A welcome event for new students to familiarize them with the campus, faculty, and services available."
+            },
+            {
+              "event": "Open House",
+              "description": "A day when the university opens its doors to prospective students and their families to explore the campus and learn about academic programs."
+            },
+            {
+              "event": "Career Fair",
+              "description": "An event where companies and organizations visit the campus to recruit students for internships and job opportunities."
+            },
+            {
+              "event": "Cultural Fest",
+              "description": "A celebration of the diverse cultural backgrounds of students with music, dance, food, and performances from different cultures."
+            },
+            {
+              "event": "Research Symposium",
+              "description": "A conference where students and faculty present their research findings and engage in academic discussions."
+            },
+            {
+              "event": "Sports Tournaments",
+              "description": "Intercollegiate sports competitions in various sports like football, basketball, volleyball, swimming, etc."
+            }
+          ],
+          "research_works": [
+            {
+              "title": "Advancements in Artificial Intelligence",
+              "faculty": "Dr. Smith",
+              "description": "A research project exploring the latest developments in AI and its potential applications."
+            },
+            {
+              "title": "Sustainable Energy Solutions",
+              "faculty": "Prof. Johnson",
+              "description": "A collaborative research effort to find eco-friendly energy solutions."
+            },
+            {
+              "title": "Climate Change and Its Impacts",
+              "faculty": "Dr. Brown",
+              "description": "A study focusing on the effects of climate change on the environment and society."
+            },
+            {
+              "title": "Innovations in Biotechnology",
+              "faculty": "Prof. Williams",
+              "description": "Research on groundbreaking advancements in biotechnology."
+            }
+          ],
+          "sports_categories": [
+            {
+              "category": "Team Sports",
+              "sports": ["Football", "Basketball", "Volleyball", "Rugby", "Cricket", "Soccer"]
+            },
+            {
+              "category": "Individual Sports",
+              "sports": ["Tennis", "Table Tennis", "Badminton", "Swimming", "Athletics"]
+            },
+            {
+              "category": "Indoor Sports",
+              "sports": ["Chess", "Billiards", "Snooker"]
+            },
+            {
+              "category": "Martial Arts",
+              "sports": ["Karate", "Taekwondo", "Judo"]
+            },
+            {
+              "category": "Fitness and Wellness",
+              "sports": ["Yoga", "Aerobics", "Gym Workouts"]
+            }
+          ]
     },
     {
-        "college_image": "https://example.com/college2.jpg",
-        "college_name": "XYZ College",
+        "college_image": "https://img.freepik.com/premium-photo/face-masks-campus-covid-restrictions-new-normal_53876-152987.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais",
+        "college_name": "Dhaka College",
         "rating": 4.2,
         "admission_date": "2023-08-15",
         "number_of_research": 90,
@@ -47,11 +143,107 @@
             "Tennis",
             "Volleyball",
             "Track and Field"
-        ]
+        ],
+        "admission_process": [
+            {
+                "step": "Fill out the online application form",
+                "description": "Interested students need to fill out an online application form available on the university's website. The application form typically includes personal information, educational background, desired program of study, and any additional requirements like essays or letters of recommendation."
+            },
+            {
+                "step": "Application review by the admission committee",
+                "description": "Once the applications are submitted, the university's admission committee reviews them. They assess various factors such as academic performance, extracurricular activities, personal statements, and letters of recommendation."
+            },
+            {
+                "step": "Entrance exams (if applicable)",
+                "description": "Some programs at ABC University may require applicants to take specific entrance exams, such as standardized tests or subject-specific exams."
+            },
+            {
+                "step": "Interviews (if applicable)",
+                "description": "Shortlisted candidates may be called for interviews, especially for competitive programs or scholarship opportunities."
+            },
+            {
+                "step": "Admission decision",
+                "description": "After the review process, the admission committee makes the final decision on each application. Students receive acceptance letters or rejection notifications through email or postal mail."
+            },
+            {
+                "step": "Acceptance and enrollment",
+                "description": "Accepted students need to confirm their enrollment by paying a deposit or fee within a specified timeframe. This secures their spot at the university."
+            }
+        ],
+        "events_details": [
+            {
+              "event": "Orientation Day",
+              "description": "A welcome event for new students to familiarize them with the campus, faculty, and services available."
+            },
+            {
+              "event": "Open House",
+              "description": "A day when the university opens its doors to prospective students and their families to explore the campus and learn about academic programs."
+            },
+            {
+              "event": "Career Fair",
+              "description": "An event where companies and organizations visit the campus to recruit students for internships and job opportunities."
+            },
+            {
+              "event": "Cultural Fest",
+              "description": "A celebration of the diverse cultural backgrounds of students with music, dance, food, and performances from different cultures."
+            },
+            {
+              "event": "Research Symposium",
+              "description": "A conference where students and faculty present their research findings and engage in academic discussions."
+            },
+            {
+              "event": "Sports Tournaments",
+              "description": "Intercollegiate sports competitions in various sports like football, basketball, volleyball, swimming, etc."
+            }
+          ],
+          "research_works": [
+            {
+              "title": "Advancements in Artificial Intelligence",
+              "faculty": "Dr. Smith",
+              "description": "A research project exploring the latest developments in AI and its potential applications."
+            },
+            {
+              "title": "Sustainable Energy Solutions",
+              "faculty": "Prof. Johnson",
+              "description": "A collaborative research effort to find eco-friendly energy solutions."
+            },
+            {
+              "title": "Climate Change and Its Impacts",
+              "faculty": "Dr. Brown",
+              "description": "A study focusing on the effects of climate change on the environment and society."
+            },
+            {
+              "title": "Innovations in Biotechnology",
+              "faculty": "Prof. Williams",
+              "description": "Research on groundbreaking advancements in biotechnology."
+            }
+          ],
+          "sports_categories": [
+            {
+              "category": "Team Sports",
+              "sports": ["Football", "Basketball", "Volleyball", "Rugby", "Cricket", "Soccer"]
+            },
+            {
+              "category": "Individual Sports",
+              "sports": ["Tennis", "Table Tennis", "Badminton", "Swimming", "Athletics"]
+            },
+            {
+              "category": "Indoor Sports",
+              "sports": ["Chess", "Billiards", "Snooker"]
+            },
+            {
+              "category": "Martial Arts",
+              "sports": ["Karate", "Taekwondo", "Judo"]
+            },
+            {
+              "category": "Fitness and Wellness",
+              "sports": ["Yoga", "Aerobics", "Gym Workouts"]
+            }
+          ]
     },
     {
-        "college_image": "https://example.com/college3.jpg",
-        "college_name": "EFG Institute",
+        "college_image": "https://img.freepik.com/premium-photo/cheerful-indian-asian-young-group-college-students-friends-laughing-together-while-sitting-standing-walking-campus_466689-7713.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais",
+        "college_name": "Govt. Bangla College",
         "rating": 4.7,
         "admission_date": "2023-09-20",
         "number_of_research": 150,
@@ -72,11 +264,107 @@
             "Soccer",
             "Badminton",
             "Gymnastics"
-        ]
+        ],
+        "admission_process": [
+            {
+                "step": "Fill out the online application form",
+                "description": "Interested students need to fill out an online application form available on the university's website. The application form typically includes personal information, educational background, desired program of study, and any additional requirements like essays or letters of recommendation."
+            },
+            {
+                "step": "Application review by the admission committee",
+                "description": "Once the applications are submitted, the university's admission committee reviews them. They assess various factors such as academic performance, extracurricular activities, personal statements, and letters of recommendation."
+            },
+            {
+                "step": "Entrance exams (if applicable)",
+                "description": "Some programs at ABC University may require applicants to take specific entrance exams, such as standardized tests or subject-specific exams."
+            },
+            {
+                "step": "Interviews (if applicable)",
+                "description": "Shortlisted candidates may be called for interviews, especially for competitive programs or scholarship opportunities."
+            },
+            {
+                "step": "Admission decision",
+                "description": "After the review process, the admission committee makes the final decision on each application. Students receive acceptance letters or rejection notifications through email or postal mail."
+            },
+            {
+                "step": "Acceptance and enrollment",
+                "description": "Accepted students need to confirm their enrollment by paying a deposit or fee within a specified timeframe. This secures their spot at the university."
+            }
+        ],
+        "events_details": [
+            {
+              "event": "Orientation Day",
+              "description": "A welcome event for new students to familiarize them with the campus, faculty, and services available."
+            },
+            {
+              "event": "Open House",
+              "description": "A day when the university opens its doors to prospective students and their families to explore the campus and learn about academic programs."
+            },
+            {
+              "event": "Career Fair",
+              "description": "An event where companies and organizations visit the campus to recruit students for internships and job opportunities."
+            },
+            {
+              "event": "Cultural Fest",
+              "description": "A celebration of the diverse cultural backgrounds of students with music, dance, food, and performances from different cultures."
+            },
+            {
+              "event": "Research Symposium",
+              "description": "A conference where students and faculty present their research findings and engage in academic discussions."
+            },
+            {
+              "event": "Sports Tournaments",
+              "description": "Intercollegiate sports competitions in various sports like football, basketball, volleyball, swimming, etc."
+            }
+          ],
+          "research_works": [
+            {
+              "title": "Advancements in Artificial Intelligence",
+              "faculty": "Dr. Smith",
+              "description": "A research project exploring the latest developments in AI and its potential applications."
+            },
+            {
+              "title": "Sustainable Energy Solutions",
+              "faculty": "Prof. Johnson",
+              "description": "A collaborative research effort to find eco-friendly energy solutions."
+            },
+            {
+              "title": "Climate Change and Its Impacts",
+              "faculty": "Dr. Brown",
+              "description": "A study focusing on the effects of climate change on the environment and society."
+            },
+            {
+              "title": "Innovations in Biotechnology",
+              "faculty": "Prof. Williams",
+              "description": "Research on groundbreaking advancements in biotechnology."
+            }
+          ],
+          "sports_categories": [
+            {
+              "category": "Team Sports",
+              "sports": ["Football", "Basketball", "Volleyball", "Rugby", "Cricket", "Soccer"]
+            },
+            {
+              "category": "Individual Sports",
+              "sports": ["Tennis", "Table Tennis", "Badminton", "Swimming", "Athletics"]
+            },
+            {
+              "category": "Indoor Sports",
+              "sports": ["Chess", "Billiards", "Snooker"]
+            },
+            {
+              "category": "Martial Arts",
+              "sports": ["Karate", "Taekwondo", "Judo"]
+            },
+            {
+              "category": "Fitness and Wellness",
+              "sports": ["Yoga", "Aerobics", "Gym Workouts"]
+            }
+          ]
     },
     {
-        "college_image": "https://example.com/college4.jpg",
-        "college_name": "PQR University",
+        "college_image": "https://img.freepik.com/premium-photo/group-students-with-protective-face-mask-walking-university-campus_371418-54.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais",
+        "college_name": "Govt. BM College",
         "rating": 4.3,
         "admission_date": "2023-09-10",
         "number_of_research": 80,
@@ -97,10 +385,106 @@
             "Cricket",
             "Rugby",
             "Table Tennis"
-        ]
+        ],
+        "admission_process": [
+            {
+                "step": "Fill out the online application form",
+                "description": "Interested students need to fill out an online application form available on the university's website. The application form typically includes personal information, educational background, desired program of study, and any additional requirements like essays or letters of recommendation."
+            },
+            {
+                "step": "Application review by the admission committee",
+                "description": "Once the applications are submitted, the university's admission committee reviews them. They assess various factors such as academic performance, extracurricular activities, personal statements, and letters of recommendation."
+            },
+            {
+                "step": "Entrance exams (if applicable)",
+                "description": "Some programs at ABC University may require applicants to take specific entrance exams, such as standardized tests or subject-specific exams."
+            },
+            {
+                "step": "Interviews (if applicable)",
+                "description": "Shortlisted candidates may be called for interviews, especially for competitive programs or scholarship opportunities."
+            },
+            {
+                "step": "Admission decision",
+                "description": "After the review process, the admission committee makes the final decision on each application. Students receive acceptance letters or rejection notifications through email or postal mail."
+            },
+            {
+                "step": "Acceptance and enrollment",
+                "description": "Accepted students need to confirm their enrollment by paying a deposit or fee within a specified timeframe. This secures their spot at the university."
+            }
+        ],
+        "events_details": [
+            {
+              "event": "Orientation Day",
+              "description": "A welcome event for new students to familiarize them with the campus, faculty, and services available."
+            },
+            {
+              "event": "Open House",
+              "description": "A day when the university opens its doors to prospective students and their families to explore the campus and learn about academic programs."
+            },
+            {
+              "event": "Career Fair",
+              "description": "An event where companies and organizations visit the campus to recruit students for internships and job opportunities."
+            },
+            {
+              "event": "Cultural Fest",
+              "description": "A celebration of the diverse cultural backgrounds of students with music, dance, food, and performances from different cultures."
+            },
+            {
+              "event": "Research Symposium",
+              "description": "A conference where students and faculty present their research findings and engage in academic discussions."
+            },
+            {
+              "event": "Sports Tournaments",
+              "description": "Intercollegiate sports competitions in various sports like football, basketball, volleyball, swimming, etc."
+            }
+          ],
+          "research_works": [
+            {
+              "title": "Advancements in Artificial Intelligence",
+              "faculty": "Dr. Smith",
+              "description": "A research project exploring the latest developments in AI and its potential applications."
+            },
+            {
+              "title": "Sustainable Energy Solutions",
+              "faculty": "Prof. Johnson",
+              "description": "A collaborative research effort to find eco-friendly energy solutions."
+            },
+            {
+              "title": "Climate Change and Its Impacts",
+              "faculty": "Dr. Brown",
+              "description": "A study focusing on the effects of climate change on the environment and society."
+            },
+            {
+              "title": "Innovations in Biotechnology",
+              "faculty": "Prof. Williams",
+              "description": "Research on groundbreaking advancements in biotechnology."
+            }
+          ],
+          "sports_categories": [
+            {
+              "category": "Team Sports",
+              "sports": ["Football", "Basketball", "Volleyball", "Rugby", "Cricket", "Soccer"]
+            },
+            {
+              "category": "Individual Sports",
+              "sports": ["Tennis", "Table Tennis", "Badminton", "Swimming", "Athletics"]
+            },
+            {
+              "category": "Indoor Sports",
+              "sports": ["Chess", "Billiards", "Snooker"]
+            },
+            {
+              "category": "Martial Arts",
+              "sports": ["Karate", "Taekwondo", "Judo"]
+            },
+            {
+              "category": "Fitness and Wellness",
+              "sports": ["Yoga", "Aerobics", "Gym Workouts"]
+            }
+          ]
     },
     {
-        "college_image": "https://example.com/college5.jpg",
+        "college_image": "https://img.freepik.com/free-photo/modern-amphitheater-usa_1268-14358.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais",
         "college_name": "LMN College of Arts",
         "rating": 4.8,
         "admission_date": "2023-08-20",
@@ -122,11 +506,107 @@
             "Basketball",
             "Chess",
             "Dance"
-        ]
+        ],
+        "admission_process": [
+            {
+                "step": "Fill out the online application form",
+                "description": "Interested students need to fill out an online application form available on the university's website. The application form typically includes personal information, educational background, desired program of study, and any additional requirements like essays or letters of recommendation."
+            },
+            {
+                "step": "Application review by the admission committee",
+                "description": "Once the applications are submitted, the university's admission committee reviews them. They assess various factors such as academic performance, extracurricular activities, personal statements, and letters of recommendation."
+            },
+            {
+                "step": "Entrance exams (if applicable)",
+                "description": "Some programs at ABC University may require applicants to take specific entrance exams, such as standardized tests or subject-specific exams."
+            },
+            {
+                "step": "Interviews (if applicable)",
+                "description": "Shortlisted candidates may be called for interviews, especially for competitive programs or scholarship opportunities."
+            },
+            {
+                "step": "Admission decision",
+                "description": "After the review process, the admission committee makes the final decision on each application. Students receive acceptance letters or rejection notifications through email or postal mail."
+            },
+            {
+                "step": "Acceptance and enrollment",
+                "description": "Accepted students need to confirm their enrollment by paying a deposit or fee within a specified timeframe. This secures their spot at the university."
+            }
+        ],
+        "events_details": [
+            {
+              "event": "Orientation Day",
+              "description": "A welcome event for new students to familiarize them with the campus, faculty, and services available."
+            },
+            {
+              "event": "Open House",
+              "description": "A day when the university opens its doors to prospective students and their families to explore the campus and learn about academic programs."
+            },
+            {
+              "event": "Career Fair",
+              "description": "An event where companies and organizations visit the campus to recruit students for internships and job opportunities."
+            },
+            {
+              "event": "Cultural Fest",
+              "description": "A celebration of the diverse cultural backgrounds of students with music, dance, food, and performances from different cultures."
+            },
+            {
+              "event": "Research Symposium",
+              "description": "A conference where students and faculty present their research findings and engage in academic discussions."
+            },
+            {
+              "event": "Sports Tournaments",
+              "description": "Intercollegiate sports competitions in various sports like football, basketball, volleyball, swimming, etc."
+            }
+          ],
+          "research_works": [
+            {
+              "title": "Advancements in Artificial Intelligence",
+              "faculty": "Dr. Smith",
+              "description": "A research project exploring the latest developments in AI and its potential applications."
+            },
+            {
+              "title": "Sustainable Energy Solutions",
+              "faculty": "Prof. Johnson",
+              "description": "A collaborative research effort to find eco-friendly energy solutions."
+            },
+            {
+              "title": "Climate Change and Its Impacts",
+              "faculty": "Dr. Brown",
+              "description": "A study focusing on the effects of climate change on the environment and society."
+            },
+            {
+              "title": "Innovations in Biotechnology",
+              "faculty": "Prof. Williams",
+              "description": "Research on groundbreaking advancements in biotechnology."
+            }
+          ],
+          "sports_categories": [
+            {
+              "category": "Team Sports",
+              "sports": ["Football", "Basketball", "Volleyball", "Rugby", "Cricket", "Soccer"]
+            },
+            {
+              "category": "Individual Sports",
+              "sports": ["Tennis", "Table Tennis", "Badminton", "Swimming", "Athletics"]
+            },
+            {
+              "category": "Indoor Sports",
+              "sports": ["Chess", "Billiards", "Snooker"]
+            },
+            {
+              "category": "Martial Arts",
+              "sports": ["Karate", "Taekwondo", "Judo"]
+            },
+            {
+              "category": "Fitness and Wellness",
+              "sports": ["Yoga", "Aerobics", "Gym Workouts"]
+            }
+          ]
     },
     {
-        "college_image": "https://example.com/college6.jpg",
-        "college_name": "UVW Engineering Institute",
+        "college_image": "https://img.freepik.com/free-photo/park-lujiazui-financial-center-shanghai-china_1127-2860.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais",
+        "college_name": "Govt. BL College",
         "rating": 4.6,
         "admission_date": "2023-09-05",
         "number_of_research": 110,
@@ -147,6 +627,102 @@
             "Volleyball",
             "Swimming",
             "Cricket"
-        ]
+        ],
+        "admission_process": [
+            {
+                "step": "Fill out the online application form",
+                "description": "Interested students need to fill out an online application form available on the university's website. The application form typically includes personal information, educational background, desired program of study, and any additional requirements like essays or letters of recommendation."
+            },
+            {
+                "step": "Application review by the admission committee",
+                "description": "Once the applications are submitted, the university's admission committee reviews them. They assess various factors such as academic performance, extracurricular activities, personal statements, and letters of recommendation."
+            },
+            {
+                "step": "Entrance exams (if applicable)",
+                "description": "Some programs at ABC University may require applicants to take specific entrance exams, such as standardized tests or subject-specific exams."
+            },
+            {
+                "step": "Interviews (if applicable)",
+                "description": "Shortlisted candidates may be called for interviews, especially for competitive programs or scholarship opportunities."
+            },
+            {
+                "step": "Admission decision",
+                "description": "After the review process, the admission committee makes the final decision on each application. Students receive acceptance letters or rejection notifications through email or postal mail."
+            },
+            {
+                "step": "Acceptance and enrollment",
+                "description": "Accepted students need to confirm their enrollment by paying a deposit or fee within a specified timeframe. This secures their spot at the university."
+            }
+        ],
+        "events_details": [
+            {
+              "event": "Orientation Day",
+              "description": "A welcome event for new students to familiarize them with the campus, faculty, and services available."
+            },
+            {
+              "event": "Open House",
+              "description": "A day when the university opens its doors to prospective students and their families to explore the campus and learn about academic programs."
+            },
+            {
+              "event": "Career Fair",
+              "description": "An event where companies and organizations visit the campus to recruit students for internships and job opportunities."
+            },
+            {
+              "event": "Cultural Fest",
+              "description": "A celebration of the diverse cultural backgrounds of students with music, dance, food, and performances from different cultures."
+            },
+            {
+              "event": "Research Symposium",
+              "description": "A conference where students and faculty present their research findings and engage in academic discussions."
+            },
+            {
+              "event": "Sports Tournaments",
+              "description": "Intercollegiate sports competitions in various sports like football, basketball, volleyball, swimming, etc."
+            }
+          ],
+          "research_works": [
+            {
+              "title": "Advancements in Artificial Intelligence",
+              "faculty": "Dr. Smith",
+              "description": "A research project exploring the latest developments in AI and its potential applications."
+            },
+            {
+              "title": "Sustainable Energy Solutions",
+              "faculty": "Prof. Johnson",
+              "description": "A collaborative research effort to find eco-friendly energy solutions."
+            },
+            {
+              "title": "Climate Change and Its Impacts",
+              "faculty": "Dr. Brown",
+              "description": "A study focusing on the effects of climate change on the environment and society."
+            },
+            {
+              "title": "Innovations in Biotechnology",
+              "faculty": "Prof. Williams",
+              "description": "Research on groundbreaking advancements in biotechnology."
+            }
+          ],
+          "sports_categories": [
+            {
+              "category": "Team Sports",
+              "sports": ["Football", "Basketball", "Volleyball", "Rugby", "Cricket", "Soccer"]
+            },
+            {
+              "category": "Individual Sports",
+              "sports": ["Tennis", "Table Tennis", "Badminton", "Swimming", "Athletics"]
+            },
+            {
+              "category": "Indoor Sports",
+              "sports": ["Chess", "Billiards", "Snooker"]
+            },
+            {
+              "category": "Martial Arts",
+              "sports": ["Karate", "Taekwondo", "Judo"]
+            },
+            {
+              "category": "Fitness and Wellness",
+              "sports": ["Yoga", "Aerobics", "Gym Workouts"]
+            }
+          ]
     }
 ]
