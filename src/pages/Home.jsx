@@ -10,7 +10,7 @@ const Home = () => {
     const { data: collegeCard = [] } = useQuery({
         queryKey: ['collegeCard'],
         queryFn: async () => {
-            const res = await axios('http://localhost:5000/colleges/cards')
+            const res = await axios('https://start-game-back-end.vercel.app/colleges/cards')
             return res.data
         }
     })

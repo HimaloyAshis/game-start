@@ -26,7 +26,7 @@ const SingleCard = () => {
 
                         )
 
-                    }
+                     }
 
                         < div className='space-y-4 '>
                             <p className='font-bold mt-10 space-y-2 text-2xl'>Event Detail</p>

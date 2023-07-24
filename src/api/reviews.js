@@ -7,7 +7,7 @@ const reviews = () => {
     const {data : review=[]}= useQuery({
         queryKey:['reviews'],
         queryFn : async ()=>{
-            const res = await axios('http://localhost:5000/reviews')
+            const res = await axios('https://start-game-back-end.vercel.app/reviews')
             return res.data
         }
     })
