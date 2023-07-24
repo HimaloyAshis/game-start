@@ -8,7 +8,7 @@ const Review = ({review}) => {
         <div className="card card-compact w-96 bg-base-100 shadow-xl py-5">
 
             <div className="p-4" data-aos="zoom-in" data-aos-easing="linear"
-                        data-aos-duration="3000">
+                        data-aos-duration="2000">
                 <h2 className="card-title text-xl font-bold">{collegeName}</h2>
                 <p className='font-semibold '><span className='font-bold'>Academics</span>: {academics}</p>
                 <p className='font-semibold '><span className='font-bold'>CampusLife</span>: {campusLife}</p>

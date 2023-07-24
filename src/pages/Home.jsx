@@ -48,32 +48,32 @@ const Home = () => {
                 <p className='text-center text-3xl text-white font-bold'>Graduates student from different college</p>
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-3 p-4 ml-4' >
                     <div className='' data-aos="zoom-in" data-aos-easing="linear"
-                        data-aos-duration="3000">
+                        data-aos-duration="2000">
                         <p className='font-bold text-xl my-4 text-white'>Kabi Nazrul Govt. College</p>
                         <img className='w-80' src="https://img.freepik.com/free-photo/multinational-graduates-male-female-celebrating-graduation-university-campus-removing-their-graduation-hats-smiling-camera_496169-1297.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais" alt="" />
                     </div>
                     <div className='' data-aos="zoom-in" data-aos-easing="linear"
-                        data-aos-duration="3000">
+                        data-aos-duration="2000">
                         <p className='font-bold text-xl my-4 text-white'>Kabi Nazrul Govt. College</p>
                         <img className='w-80' src="https://img.freepik.com/free-photo/portrait-group-students-celebrating-their-graduation_23-2148201827.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais" alt="" />
                     </div>
                     <div className='' data-aos="zoom-in" data-aos-easing="linear"
-                        data-aos-duration="3000">
+                        data-aos-duration="2000">
                         <p className='font-bold text-xl my-4 text-white'>Govt. Bangla College</p>
                         <img className='w-80' src="https://img.freepik.com/free-photo/portrait-group-students-celebrating-their-graduation_23-2148201851.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais" alt="" />
                     </div>
                     <div className='' data-aos="zoom-in" data-aos-easing="linear"
-                        data-aos-duration="3000">
+                        data-aos-duration="2000">
                         <p className='font-bold text-xl my-4 text-white'>Dhaka College</p>
                         <img className='w-80' src="https://img.freepik.com/free-photo/medium-shot-colleagues-posing-together_23-2148950574.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais" alt="" />
                     </div>
                     <div className='' data-aos="zoom-in" data-aos-easing="linear"
-                        data-aos-duration="3000">
+                        data-aos-duration="2000">
                         <p className='font-bold text-xl my-4 text-white'>Govt. BM College</p>
                         <img className='w-80' src="https://img.freepik.com/free-photo/two-international-graduate-celebrating-graduation-university-campus-looking-camera_496169-1349.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais" alt="" />
                     </div>
                     <div className='' data-aos="zoom-in" data-aos-easing="linear"
-                        data-aos-duration="3000">
+                        data-aos-duration="2000">
                         <p className='font-bold text-xl my-4 text-white'>Govt. Titumir College</p>
                         <img className='w-80' src="https://img.freepik.com/free-photo/graduation-concept-with-girls-taking-selfie_23-2148201825.jpg?size=626&ext=jpg&ga=GA1.2.1842592228.1683275805&semt=ais" alt="" />
                     </div>

@@ -8,6 +8,7 @@ import Login from '../pages/login/Login';
 import ErrorElement from '../pages/errorElement/ErrorElement';
 import SingleCard from '../pages/SingleCard/SingleCard';
 import cardDetails from '../api/cardDetails';
+import CollegeName from '../pages/CollegeName/CollegeName';
 const router = createBrowserRouter([
     {
         path:'/',
@@ -30,6 +31,10 @@ const router = createBrowserRouter([
                 path:'/singleCard/:id',
                 element:<SingleCard></SingleCard>,
                 loader: cardDetails
+            },
+            {
+                path:'/collegeName',
+                element:<CollegeName></CollegeName>
             }
         ]
     }
