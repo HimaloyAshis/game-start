@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
 
-    const 
+    
 
     return (
         <div className='bg-[#EEE2DE] flex gap-4 justify-center bg-fixed  font-bold pt-4 pb-4 items-center'>
