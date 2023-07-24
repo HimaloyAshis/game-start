@@ -16,17 +16,14 @@ const ThreeCard = ({ card }) => {
                     <p className='font-semibold'>Event: {event}</p>
                     <div className='mb-3'><span className='text-xl font-bold'>Research History</span> {
                         research_history.map((research, index) =>
-                            <>
-                                <div key={index}>
+                            <div key={index}>
 
-                                    <p>.{index + 1}</p>
-                                    <p className='font-semibold'>Faculty: {research.faculty}</p>
-                                    <p className='font-semibold'>Topic: {research.topic}</p>
-                                    <p className='font-semibold'>Year: {research.year}</p>
+                                <p>.{index + 1}</p>
+                                <p className='font-semibold'>Faculty: {research.faculty}</p>
+                                <p className='font-semibold'>Topic: {research.topic}</p>
+                                <p className='font-semibold'>Year: {research.year}</p>
 
-                                </div>
-
-                            </>
+                            </div>
 
                         )
 
