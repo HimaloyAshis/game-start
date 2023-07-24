@@ -67,7 +67,7 @@ const SingleCard = () => {
                                         {
                                             sport.sports.map(sp=> 
                                                 <div>
-                                                    <p key={index} className='font-semibold'><span className='font-bold'>sports. </span> {sp} </p>
+                                                    <p key={index} className='font-semibold'><span className='font-bold'>.</span> {sp} </p>
                                                 </div>
                                                 )
                                         }

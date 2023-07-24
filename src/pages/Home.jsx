@@ -37,6 +37,16 @@ const Home = () => {
                 </div>
             </section>
 
+            <section className='mt-10'>
+                <div>
+                    <div>
+                        <p className='font-bold text-xl'></p>
+                        <img src="" alt="" />
+                    </div>
+                </div>
+
+            </section>
+
         </div>
     );
 };
