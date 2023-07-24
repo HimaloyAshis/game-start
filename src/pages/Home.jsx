@@ -16,7 +16,7 @@ const Home = () => {
     console.log(collegeCard)
 
     return (
-        <>
+        <div className='bg-[#6C3428] px-2'>
             <section className='mt-10'>
                 <div>
                     <div className='flex justify-center transparent items-center'>
@@ -37,7 +37,7 @@ const Home = () => {
                 </div>
             </section>
 
-        </>
+        </div>
     );
 };
 

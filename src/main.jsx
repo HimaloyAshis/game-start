@@ -9,7 +9,7 @@ const queryClient = new QueryClient()
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   // <React.StrictMode>
-  <div className='bg-[#6C3428] px-2'>
+  <div >
     <QueryClientProvider client={queryClient}>
       <RouterProvider router={router}>
       </RouterProvider>

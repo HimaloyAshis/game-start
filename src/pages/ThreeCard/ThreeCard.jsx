@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const ThreeCard = ({ card }) => {
 
     const { _id, admission_date, college_image, college_name, event, number_of_research, rating, research_history, sports } = card
-    console.log(_id)
+    // console.log(_id)
 
     return (
         <div>
