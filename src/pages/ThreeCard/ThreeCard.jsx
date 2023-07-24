@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const ThreeCard = ({ card }) => {
 
@@ -39,7 +40,7 @@ const ThreeCard = ({ card }) => {
                         </div>
                     </div>
                     <div className="card-actions justify-end">
-                        <button className="butn btn-primary ">Know more</button>
+                        <Link to={`/singleCard/${_id}`} className="butn btn-primary ">Know more</Link>
                     </div>
                 </div>
             </div>
