@@ -84,7 +84,7 @@ const Home = () => {
             {/* reviews section */}
 
             <section className='mt-10 pb-10'>
-                <h1 className='font-bold text-3xl text-center text-white my-10'> Feedback and reviews from different college</h1>
+                <h1 className='font-bold text-3xl text-center text-white my-10'>Previous student's Feedback and reviews for different college</h1>
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3'>
                     {
                         review.map((review, index) => <Review key={index} review={review} ></Review>)
