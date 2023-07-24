@@ -6,6 +6,7 @@ import Main from '../layout/Main';
 import SignUp from '../pages/signup/SignUp';
 import Login from '../pages/login/Login';
 import ErrorElement from '../pages/errorElement/ErrorElement';
+import SingleCard from '../pages/SingleCard/SingleCard';
 const router = createBrowserRouter([
     {
         path:'/',
@@ -23,6 +24,10 @@ const router = createBrowserRouter([
             {
                 path:'/login',
                 element:<Login></Login>
+            },
+            {
+                path:'/singleCard/:id',
+                element:<SingleCard></SingleCard>
             }
         ]
     }

@@ -30,7 +30,6 @@ const ThreeCard = ({ card }) => {
 
                         )
 
-
                     }
                         < div >
                             <p className='font-bold mt-3'>Sports</p>
