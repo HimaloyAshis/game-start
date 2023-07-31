@@ -4,6 +4,7 @@ import { useQuery } from 'react-query';
 import ThreeCard from './ThreeCard/ThreeCard';
 import reviews from '../api/reviews';
 import Review from './review/Review';
+import ClickCounter from './HOC/ClickCounter';
 
 const Home = () => {
 
@@ -26,6 +27,7 @@ const Home = () => {
                 <div>
                     <div className='flex justify-center transparent items-center'>
                         <div>
+                            <ClickCounter></ClickCounter>
                             <h1 className='my-3 text-white font-bold text-2xl'>Search by college name</h1>
                             <input className='text-center px-1 py-1 rounded m-4' type="text" name="collegeName" id="" placeholder='College Name' />
                         </div>
@@ -91,6 +93,7 @@ const Home = () => {
                     }
                 </div>
             </section>
+
 
         </div>
     );
